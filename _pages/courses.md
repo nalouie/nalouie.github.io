@@ -9,17 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently (Winter 2023) taking 
-- MATH 505: Field and Galois Theory
-- MATH 525: Functional Analysis
-- CSE 421: Algorithms, and
-- CSE 442: Data Visualization.
+I am currently (Spring 2023) taking 
+
+- MATH 506: Representation Theory and Commutative Algebra
+- MATH 509: Homological Algebra
+- MATH 534: Complex Analysis
+- CSE 446: Machine Learning
 
 I have taken the following courses:
 
 Graduate Mathematics 
 ---
+- MATH 505: Field and Galois Theory
 - MATH 504: Group, Ring, and Module Theory
+- MATH 525: Functional Analysis
 - MATH 524: Differentiation and Integration with Measure Theory 
 
 Undergraduate Mathematics 
@@ -30,6 +33,8 @@ Undergraduate Mathematics
 
 Undergraduate Computer Science
 ---
+- CSE 421: Algorithms
+- CSE 442: Data Visualization
 - CSE 473: Artificial Intelligence
 - CSE 351: Hardware and Software Interface
 - CSE 344: Data Management
@@ -37,4 +42,4 @@ Undergraduate Computer Science
 - CSE 332: Data Structures and Paralleism
 - CSE 331: Software Design and Implementation
 - CSE 312: Basic Combinatorics and Probability
-- CSE 311: Logic and Proof-writing
+- CSE 311: [Logic and Proof-writing](https://courses.cs.washington.edu/courses/cse311/21au/)
