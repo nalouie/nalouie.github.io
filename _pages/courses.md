@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently (Autumn 2024) taking: TBH.
+I am currently (Autumn 2023) taking: 
+- MATH 564: Algebraic Topology I
+- MATH 567: Algebraic Geometry I
+- MATH 544: Topological Manifolds
+- CSE 484: [Computer Security](https://courses.cs.washington.edu/courses/cse484/23au/)
+
+
 
 I have taken the following courses:
 
