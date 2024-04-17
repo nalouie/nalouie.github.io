@@ -9,18 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently (Autumn 2023) taking: 
-- MATH 564: Algebraic Topology I
-- MATH 567: Algebraic Geometry I
-- MATH 544: Topological Manifolds
-- CSE 484: [Computer Security](https://courses.cs.washington.edu/courses/cse484/23au/)
-
-
+I am currently (Spring 2024) taking: 
+- MATH 566: Algebraic Topology III
+- MATH 546: Smooth Manifolds II
 
 I have taken the following courses:
 
 Graduate Mathematics 
 ---
+- MATH 565: Algebraic Topology II
+- MATH 564: Algebraic Topology I
+- MATH 568: Algebraic Geometry II
+- MATH 567: Algebraic Geometry I
+- MATH 545: Smooth Manifolds 1
+- MATH 544: Topological Manifolds
 - MATH 506: Representation Theory and Commutative Algebra
 - MATH 505: Field and Galois Theory
 - MATH 504: Group, Ring, and Module Theory
@@ -37,6 +39,7 @@ Undergraduate Mathematics
 
 Undergraduate Computer Science
 ---
+- CSE 484: [Computer Security](https://courses.cs.washington.edu/courses/cse484/23au/)
 - CSE 446: [Machine Learning](https://courses.cs.washington.edu/courses/cse446/23sp/)
 - CSE 421: [Algorithms](https://courses.cs.washington.edu/courses/cse421/23wi/)
 - CSE 442: [Data Visualization](https://courses.cs.washington.edu/courses/cse442/23wi/)

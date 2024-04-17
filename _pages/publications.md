@@ -6,6 +6,10 @@ author_profile: true
 ---
 {% include base_path %}
 
+Senior Thesis Spring 2024
+---
+Currently working on an expository senior thesis on the Chern-Gauss-Bonnet Theorem under Professor Gabriel Paternain at the University of Washington.
+
 REU Summer 2023
 ---
 Participated in an [REU](https://sites.northwestern.edu/dynamicsrtg/about/) at Northwestern University studying dynamical systems, mentored by Professor Aaron Brown. Our project was "Anosov actions on the 3-torus and other nilmanifolds by surface groups", which combined flavors from differential geometry, hyperbolic geometry, and group theory. We were able to find such a construction and also begun to explore several directions. This [report](../files/Report_LeonardLouieShinTung.pdf) give some expository background and proves our result. 

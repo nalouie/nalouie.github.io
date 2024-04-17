@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a third-year undergraduate student studying mathematics and computer science at the University of Washington. My primary interest is algebra and topology, but I am open to learn and explore new fields of mathematics. I plan to graduate on Spring 2024 then attend graduate school for mathematics.
+Hello! I am a third-year undergraduate student studying mathematics and computer science at the University of Washington. My current interests are in low-dimensional topology and algebraic topology, but I am open to learn and explore new fields of mathematics (dabbling into differential toplogy right now). I will be attending University of Texas at Austin as a PhD student for Autumn 2024.
 
 
 ### Federico Ardila's Axioms
