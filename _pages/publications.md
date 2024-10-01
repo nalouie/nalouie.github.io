@@ -8,7 +8,7 @@ author_profile: true
 
 Senior Thesis Spring 2024
 ---
-Currently working on an expository senior thesis on the Chern-Gauss-Bonnet Theorem under Professor Gabriel Paternain at the University of Washington.
+Completed an expository senior thesis on the Chern-Gauss-Bonnet Theorem under Professor Gabriel Paternain at the University of Washington.
 
 REU Summer 2023
 ---

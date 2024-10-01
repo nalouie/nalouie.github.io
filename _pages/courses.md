@@ -9,18 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently (Spring 2024) taking: 
-- MATH 566: Algebraic Topology III
-- MATH 546: Smooth Manifolds II
 
 I have taken the following courses:
 
 Graduate Mathematics 
 ---
+- MATH 566: Algebraic Topology III
 - MATH 565: Algebraic Topology II
 - MATH 564: Algebraic Topology I
 - MATH 568: Algebraic Geometry II
 - MATH 567: Algebraic Geometry I
+- MATH 546: Smooth Manifolds II
 - MATH 545: Smooth Manifolds 1
 - MATH 544: Topological Manifolds
 - MATH 506: Representation Theory and Commutative Algebra
