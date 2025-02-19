@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a first-year PhD student at the University of Texas Austin studying mathematics. I completed my B.S. in mathematics and computer science at the University of Washington. My current interests are in low-dimensional topology and algebraic topology, but I am open to learn and explore new fields of mathematics. 
-
+Hello! I am a first-year PhD student at the University of Texas Austin studying mathematics. I completed my B.S. in mathematics and computer science at the University of Washington. My current interests are in low-dimensional topology, particularly in 4-dimensions.
 
 ### Federico Ardila's Axioms
 <font size = "2"> 

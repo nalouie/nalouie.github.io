@@ -10,3 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <iframe width="100%" height="800" src="../files/Nathan Louie CV.pdf">
+
+
+<iframe width="100%" height="800" src="../files/Nathan Louie resume.pdf">

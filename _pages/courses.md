@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-I have taken the following courses:
+I have taken the following courses at the University of Washington:
 
 Graduate Mathematics 
 ---
