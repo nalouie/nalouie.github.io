@@ -9,6 +9,7 @@ redirect_from:
 ---
 Hello! I am a second-year PhD student at the University of Texas Austin studying mathematics. I completed my B.S. in mathematics and computer science at the University of Washington. My current interests are in low-dimensional topology, particularly in 4-dimensions. 
 
+<font size = "2"> 
 You may have seen me in one of the following conferences:
 - Montreal, CA Aug. 2025: Knots, Groups, and Manifolds
 - Trieste, IT June 2025: Modern Tools in Low-Dimensional Topology
