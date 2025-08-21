@@ -17,6 +17,7 @@ You may have seen me in one of the following conferences:
 - Bloomington, US Apr. 2025: Graduate Student Topology and Geometry Conference
 - College Station, US Mar. 2025: South Central Topology Conference IV
 - Athens, US May 2024: Georgia Topology Summer School
+</font>
 
 ### Federico Ardila's Axioms
 <font size = "2"> 
