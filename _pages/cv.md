@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+This is really out of date...
+
 <iframe width="100%" height="800" src="../files/Nathan Louie CV.pdf">
 
 
