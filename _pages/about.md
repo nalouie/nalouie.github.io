@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a first-year PhD student at the University of Texas Austin studying mathematics. I completed my B.S. in mathematics and computer science at the University of Washington. My current interests are in low-dimensional topology, particularly in 4-dimensions.
+Hello! I am a second-year PhD student at the University of Texas Austin studying mathematics. I completed my B.S. in mathematics and computer science at the University of Washington. My current interests are in low-dimensional topology, particularly in 4-dimensions. 
+
+You may have seen me in one of the following conferences:
+- Montreal, CA Aug. 2025: Knots, Groups, and Manifolds
+- Trieste, IT June 2025: Modern Tools in Low-Dimensional Topology
+- Athens, US May 2025: Georgia International Topology Conference
+- Bloomington, US Apr. 2025: Graduate Student Topology and Geometry Conference
+- College Station, US Mar. 2025: South Central Topology Conference IV
+- Athens, US May 2024: Georgia Topology Summer School
 
 ### Federico Ardila's Axioms
 <font size = "2"> 
