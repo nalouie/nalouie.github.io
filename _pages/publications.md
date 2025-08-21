@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-In progress. 🛠️🛠️🛠️
+In progress.
 
 
 <h2>Undergraduate Research </h2>
