@@ -11,12 +11,14 @@ Hello! I am a second-year PhD student at the University of Texas Austin studying
 
 <font size = "2"> 
 You may have seen me in one of the following conferences:
-- Montreal, CA Aug. 2025: Knots, Groups, and Manifolds
-- Trieste, IT June 2025: Modern Tools in Low-Dimensional Topology
-- Athens, US May 2025: Georgia International Topology Conference
-- Bloomington, US Apr. 2025: Graduate Student Topology and Geometry Conference
-- College Station, US Mar. 2025: South Central Topology Conference IV
-- Athens, US May 2024: Georgia Topology Summer School
+<ol>
+<li>Montreal, CA Aug. 2025: Knots, Groups, and Manifolds</li>
+<li>Trieste, IT June 2025: Modern Tools in Low-Dimensional Topology</li>
+<li>Athens, US May 2025: Georgia International Topology Conference</li>
+<li>Bloomington, US Apr. 2025: Graduate Student Topology and Geometry Conference</li>
+<li>College Station, US Mar. 2025: South Central Topology Conference IV</li>
+<li>Athens, US May 2024: Georgia Topology Summer School</li>
+</ol>
 </font>
 
 ### Federico Ardila's Axioms
